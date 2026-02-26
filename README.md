@@ -4,7 +4,7 @@ Before clicking Run All, make sure the following installed.
 
 1️. Python Version
 
-Python 3.9 or newer (Recommended: Python 3.10+)
+Python 3.10 or newer (Recommended: Python 3.14)
 
 2️. Required Libraries
 
