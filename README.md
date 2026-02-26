@@ -19,3 +19,5 @@ pip install notebook
 and the data i use is 'workshop_km.csv' in workshio5 assignment in mango. (all files should be in the same folder)
 
 If everythings is installed, can click run all.
+
+This file readme.md is written by 652115043 Wannikkasit
